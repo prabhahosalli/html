@@ -16,6 +16,7 @@
             </tr>
             <tr>
             <td><button>login</button></td>
+            <td><button>cancel</button></td>
             <td>
             <a href=doc3.html>Register here</a>
             </td>
