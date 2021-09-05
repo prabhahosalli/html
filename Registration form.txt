@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -28,4 +29,33 @@
             </html>
             
           
-        code changed by team 1
+        code changed by team1
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>login page</title>s
+    </head>
+    <body>
+        <form>
+        <table>
+        <tr>
+        <td>username :</td>
+            <td><input type="text" placeholder="username" name=""></td>
+            </tr>
+            <tr>
+                <td>password :</td>
+            <td><input type="text" placeholder="password" password=""></td>
+            </tr>
+            <tr>
+            <td><button>login</button></td>
+            <td>
+            <a href=doc3.html>Register here</a>
+            </td>
+            </tr>
+            </table>
+            </form>
+            </body>
+            </html>
+            
+            code changes to main branch directly by team1
+   
