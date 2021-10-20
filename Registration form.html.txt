@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>login page</title>s
+    </head>
+    <body>
+{
+        background-image:url('surfacelapy.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+        <form>
+        <table>
+        <tr>
+        <td>username :</td>
+            <td><input type="text" placeholder="username" name=""></td>
+            </tr>
+            <tr>
+                <td>password :</td>
+            <td><input type="text" placeholder="password" password=""></td>
+            </tr>
+            <tr>
+            <td><button>login</button></td>
+            <td><button>Forgot password</button></td>
+             <td><button>commit</button></td>
+            </tr>
+             <tr>
+              <td>
+            <a href=doc3.html>Register here</a>
+            </td>
+            </tr>
+             <tr>
+             <td>
+              <a href="https://nanalabs.co.uk/installing-and-setting-up-jenkins-on-ubuntu-server/">Install Jenkins</a>
+              </td>
+               </tr>
+            </table>
+            </form>
+            </body>
+            </html>
+            
+            
+            Jenkins
+            https://nanalabs.co.uk/installing-and-setting-up-jenkins-on-ubuntu-server/
+
+redhat private jenkins installation
+https://cloudaffaire.com/how-to-install-jenkins-in-aws-ec2-instance/
+
+https://devopscube.com/jenkins-multibranch-pipeline-tutorial/
+
+
+           
+           Amazon s3
+          https://aws.amazon.com/s3/storage-classes/
+
+              Architect Web Infrastructures on Ubuntu 14, Part 1
+              https://www.serverlab.ca/tutorials/linux/web-servers-linux/architect-web-infrastructures-on-ubuntu-14-part-1/
+
+
+
+udemy
+https://www.udemy.com/join/login-popup/?next=/course/aws-certified-solutions-architect-associate-saa-c02/learn/
+
+
+github
+https://www.youtube.com/watch?v=-U-eUHI6euM&list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG
+
+
+terraform
+https://www.youtube.com/watch?v=11nYdXj0dl4&list=PL4x1EcudG2hvsCiVxQEvVPvQzrltyJdmJ
+
+
+installation of terraform
+https://www.linuxtechi.com/how-to-launch-aws-ec2-instance-using-terraform/
+
+
+
+https://www.youtube.com/watch?v=Fi9pgrMlQZY
+
+https://github.com/prabhahosalli/jenkin.git
+
+
+
+
+
+
+github token1
+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
+
+
+DOCKER
+https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04
+
+https://technology.riotgames.com/news/putting-jenkins-docker-container
+
+https://technology.riotgames.com/news/putting-jenkins-docker-container
+
+
+
+https://www.jenkins.io/doc/book/installing/docker/
+
+https://rangle.io/blog/running-jenkins-and-persisting-state-locally-using-docker-2/
+
+
+docker tutorials
+https://www.tutorialspoint.com/docker/docker_public_repositories.htm
+
+
+https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+
+
+
+DOCKERFILE TO installing jenkin
+for code
+https://github.com/jenkinsci/docker/blob/587b2856cd225bb152c4abeeaaa24934c75aa460/Dockerfile
+
+
+HAPROXY
+https://tecadmin.net/install-and-configure-haproxy-on-centos/#:~:text=1%20Install%20HAProxy.%20HAProxy%20package%20is%20available%20under,setup%20and%20modify%20...%203%20Start%20HAProxy%20Service
+
+
+
