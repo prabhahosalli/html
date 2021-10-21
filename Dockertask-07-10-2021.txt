@@ -1,0 +1,54 @@
+task : Build a dockerfile and launch a dockerfile as an image and get into that image.
+use bash file to install the jenkins inside the image.
+install all dependencies and start the jenkins and test jenkin in browser.
+
+Jenkin.sh
+-----------
+apt update
+apt install openjdk-8-jdk
+wget -q -O - https://pkg.jenkins.io/debian/jenkin>
+sh -c 'echo deb http://pkg.jenkins.io/debian-stab>
+apt update
+apt install jenkins
+systemctl status jenkins
+
+dockerfile
+---------
+
+FROM ubuntu
+COPY . /
+CMD sh /app/jenkins.sh
+
+
+-bash jenkin.sh (to run the bash script)
+
+To build the jenkinfile:
+----------------------
+docker build .
+
+sudo docker images -a
+(copy jenkin image)
+
+Go inside the image:
+-------------------
+sudo docker run -it imageid /bin/bash
+
+ls(to the jenkin.sh file)
+
+bash jenkin.sh (run jenkin file inside the image)
+
+install all dependencies to execute the code:
+
+apt update
+apt install gnupg
+apt install wget
+
+Then run the jenkin.sh file (bash jenkins.sh)
+check the jenkin status- (Sysytemctl status jenkins.service)
+if jenkin is inactive state the enable jenkin and start jenkin.
+systmctl enable jenkin.service
+systemctl start jenkin.service
+systemctl status jenkin.service
+
+Then test the jenkin in browser.
+Ip:8080
