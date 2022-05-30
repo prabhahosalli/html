@@ -40,6 +40,9 @@
             </html>
             
             
+            
+            use below links
+            
             Jenkins
             https://nanalabs.co.uk/installing-and-setting-up-jenkins-on-ubuntu-server/
 
